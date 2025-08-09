@@ -1,4 +1,4 @@
-# 🎯 Dynamic Form Builder - upliance.ai Assignment
+# 🎯 FormCraft - Dynamic Form Builder
 
 A modern, responsive form builder application built with React, Redux, TypeScript, Material-UI, and Tailwind CSS. This project enables users to create dynamic forms with customizable fields, validation rules, and derived field calculations.
 
