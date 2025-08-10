@@ -99,7 +99,7 @@ const Header: React.FC = () => {
             {/* Mobile Menu Button */}
             {isMobile && (
               <IconButton
-                color="inherit"
+                color={isDarkMode ? "inherit" : "default"}
                 aria-label="open drawer"
                 edge="start"
                 onClick={handleDrawerToggle}
